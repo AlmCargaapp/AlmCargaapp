@@ -20,4 +20,5 @@ De igual manera, he trabajado proyectos como freelance para muchas empresas mas.
 ## Estudios
 
 **Cecyteh** - Técnico en Diseño gráfico
+
 **UVEG** - Ingeniería en Desarrollo de Software
